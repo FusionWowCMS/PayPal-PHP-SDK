@@ -1,5 +1,5 @@
 {
-    "name": "paypal/rest-api-sdk-php-2",
+    "name": "fusion-cms/rest-api-sdk-php",
     "description": "PayPal's PHP SDK for REST APIs",
     "keywords": ["paypal", "payments", "rest", "sdk"],
     "type": "library",
